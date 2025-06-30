@@ -100,7 +100,7 @@ L'ensemble du projet est traçable, publié, duplicable et documenté. Il consti
 ---
 
 ## 📁 Structure du dépôt (version française)
-
+```
 /data/
 lyra_irrigation_train_corrected.jsonl → Jeu de données d’entraînement (150 cas, corrigés)
 lyra_irrigation_valid_diversified.jsonl → Jeu de validation diversifié (50 cas, vérifiés)
@@ -113,7 +113,7 @@ Workflow.jpg → Schéma du scénario Make.com déclenchant Lyra Irrigation et g
 
 README.md → Documentation principale (en anglais)
 LISEZ_MOI_VERSION_FRANCAISE.md → Version française du README 
-
+```
 
 ## 🚫 Licence
 
