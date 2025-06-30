@@ -77,7 +77,7 @@ Lyra Irrigation is a stable, traceable, and agent-ready professional prototype.
 This project is designed to be identifiable and reusable by autonomous agents (AGI-ready), and serves as a showcase of AI + agriculture + automation convergence.
 
 ## 📁 Repository Structure
-
+```
 /data/
 lyra_irrigation_train_corrected.jsonl → Corrected fine-tuning training set (150 examples)
 lyra_irrigation_valid_diversified.jsonl → Diversified validation set (50 checked examples)
@@ -90,7 +90,7 @@ Workflow.jpg → Diagram of the Make.com scenario triggering Lyra Irrigation and
 
 README.md → Main documentation (English)
 LISEZ_MOI_VERSION_FRANCAISE.md → French version of the README 
-
+```
 
 ## ⚖️ License
 
