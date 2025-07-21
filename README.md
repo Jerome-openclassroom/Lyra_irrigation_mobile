@@ -39,6 +39,17 @@ It combines generative AI, a mobile-friendly interface, PostgreSQL backend, clou
    - Reception of structured data
    - Call to fine-tuned Lyra model
    - Auto-generation of professional irrigation recommendation
+  
+## 🕰️ Historical Note
+
+This dataset represents an early-stage prototype of the Lyra Irrigation model.  
+It was primarily used to validate the processing pipeline and assess the feasibility of an AI-based approach to agronomic diagnosis and irrigation decision support.
+
+⚠️ The dataset contains repeated sequences (approx. 10 unique rows × 15), and is not meant for production-grade fine-tuning.  
+It serves as a historical trace of the initial development phase of the Lyra series.
+
+A more robust and diverse dataset (v2) is planned for future iterations, with greater variability across soil, weather, and crop parameters.
+
 
 ## 🔍 Prompt-based Testing
 
